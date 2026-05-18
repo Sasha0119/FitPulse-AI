@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse AI",
+  "description": "An AI-powered fitness dashboard with workout planning, calorie tracking, and real-time AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
